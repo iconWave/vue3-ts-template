@@ -30,6 +30,7 @@ const count = ref(0)
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
   <p>我来了，我看到了，我征服了。</p>
   <p>HelloWorld, welcome to zhengzhou</p>
+  <P>学写 commit lint</P>
 </template>
 
 <style scoped>
