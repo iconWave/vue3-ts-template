@@ -29,6 +29,7 @@ const count = ref(0)
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
   <p>我来了，我看到了，我征服了。</p>
+  <p>HelloWorld, welcome to zhengzhou</p>
 </template>
 
 <style scoped>
