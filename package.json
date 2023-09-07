@@ -14,8 +14,8 @@
   },
   "lint-staged": {
     "*.{ts,vue}": [
-      "yarn run lint",
-      "yarn run prettier"
+      "npm run lint",
+      "npm run prettier"
     ]
   },
   "dependencies": {
