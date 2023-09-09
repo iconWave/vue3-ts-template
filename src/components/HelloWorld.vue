@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from "vue"
+import { ref } from 'vue'
 
 defineProps<{ msg: string }>()
 
@@ -30,11 +30,11 @@ const count = ref(0)
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
   <p>我来了，我看到了，我征服了。</p>
   <p>HelloWorld, welcome to zhengzhou</p>
-  <P>学写 commit lint</P>
+  <p>学写 commit lint</p>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .read-the-docs {
-  color: #888;
+  color: $test-color;
 }
 </style>
